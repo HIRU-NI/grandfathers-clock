@@ -1,0 +1,10 @@
+c:\users\acer i5\source\repos\Clock_new\Clock_new\bin\Debug\Clock_new.exe.config
+c:\users\acer i5\source\repos\Clock_new\Clock_new\bin\Debug\Clock_new.exe
+c:\users\acer i5\source\repos\Clock_new\Clock_new\bin\Debug\Clock_new.pdb
+c:\users\acer i5\source\repos\Clock_new\Clock_new\obj\Debug\Clock_new.csprojResolveAssemblyReference.cache
+c:\users\acer i5\source\repos\Clock_new\Clock_new\obj\Debug\Clock_new.Form1.resources
+c:\users\acer i5\source\repos\Clock_new\Clock_new\obj\Debug\Clock_new.Properties.Resources.resources
+c:\users\acer i5\source\repos\Clock_new\Clock_new\obj\Debug\Clock_new.csproj.GenerateResource.cache
+c:\users\acer i5\source\repos\Clock_new\Clock_new\obj\Debug\Clock_new.csproj.CoreCompileInputs.cache
+c:\users\acer i5\source\repos\Clock_new\Clock_new\obj\Debug\Clock_new.exe
+c:\users\acer i5\source\repos\Clock_new\Clock_new\obj\Debug\Clock_new.pdb
